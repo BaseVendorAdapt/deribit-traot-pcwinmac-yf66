@@ -1,4 +1,4 @@
-# 
+# 更新 deribit trading bot 插件 Mac OS版 | 顶级 deribit trading bot 插件 PC Windows版。集成 格式转换 和 警报通知，跨平台性能最大化。
 
 
 
